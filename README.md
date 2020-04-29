@@ -1,1 +1,3 @@
 # Whiskey-Drop-v1.0.1A
+I produced this webpage by following the videos from the course
+I have not copied and pasted any code...
